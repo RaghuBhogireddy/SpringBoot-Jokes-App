@@ -11,7 +11,7 @@
     <groupId>io.rrb</groupId>
     <artifactId>jokeapp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>jokeapp</name>
+    <name>jokeApp</name>
     <description>Jokes App generated using Spring Boot</description>
 
     <properties>
