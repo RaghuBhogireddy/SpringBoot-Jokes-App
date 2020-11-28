@@ -1,2 +1,3 @@
 # SpringBoot-Jokes-App
-Random Jokes generator developed using SpringBoot
+This SpringBoot Web Application displays a Random Chuck norris 
+Joke on the Index
